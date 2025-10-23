@@ -1,3 +1,4 @@
 v1.0 Proyecto base
 Funcionalidad login
 Sistema de reportes
+Información de la empresa
